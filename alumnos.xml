@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xsl"?>
+<alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="alumnos.xsd">
+  <alumno>
+    <expediente>A005</expediente>
+    <nombre>Maríbel</nombre>
+    <apellidos>García</apellidos>
+    <curso>1º ESO </curso>
+    <notaMedia>8</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A007</expediente>
+    <nombre>Carlos</nombre>
+    <apellidos>Vera</apellidos>
+    <curso>2º ESO</curso>
+    <notaMedia>6.5</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A008</expediente>
+    <nombre>Miguel</nombre>
+    <apellidos>Guerra</apellidos>
+    <curso>4º ESO</curso>
+    <notaMedia>8.5</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A009</expediente>
+    <nombre>María Luísa</nombre>
+    <apellidos>Salinas</apellidos>
+    <curso>5º ESO</curso>
+    <notaMedia>7.5</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A010</expediente>
+    <nombre>Lucía</nombre>
+    <apellidos>Blanco</apellidos>
+    <curso>3º ESO</curso>
+    <notaMedia>5.5</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A011</expediente>
+    <nombre>Angela</nombre>
+    <apellidos>Salinas</apellidos>
+    <curso>6º ESO</curso>
+    <notaMedia>10</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A012</expediente>
+    <nombre>Angel</nombre>
+    <apellidos>Gutíerrez</apellidos>
+    <curso>1º ESO</curso>
+    <notaMedia>9</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A013</expediente>
+    <nombre>Eulogio</nombre>
+    <apellidos>Herrera</apellidos>
+    <curso>1º ESO</curso>
+    <notaMedia>6.7</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A001</expediente>
+    <nombre>Ignacio</nombre>
+    <apellidos>Herrera</apellidos>
+    <curso>3º ESO</curso>
+    <notaMedia>8.5</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A002</expediente>
+    <nombre>Eduardo</nombre>
+    <apellidos>Herrera</apellidos>
+    <curso>3º ESO</curso>
+    <notaMedia>6.5</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A003</expediente>
+    <nombre>Bonifacio</nombre>
+    <apellidos>Cebrian</apellidos>
+    <curso>1º ESO</curso>
+    <notaMedia>9</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A004</expediente>
+    <nombre>Isabel</nombre>
+    <apellidos>Moreno</apellidos>
+    <curso>4º ESO</curso>
+    <notaMedia>8</notaMedia>
+  </alumno>
+  <alumno>
+    <expediente>A006</expediente>
+    <nombre>Cristina</nombre>
+    <apellidos>Almeida</apellidos>
+    <curso>2º ESO</curso>
+    <notaMedia>8.3</notaMedia>
+  </alumno>
+</alumnos>
